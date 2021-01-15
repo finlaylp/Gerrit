@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4f64aaa_658ea410",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1018796
+      },
+      "writtenOn": "2021-01-15T19:46:42Z",
+      "side": 1,
+      "message": "you are beautiful",
+      "revId": "96bfecce5af4c018019cfaae2236d6fe1c414d41",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "205ae737_41e63c37",
+        "filename": "hello.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1018796
+      },
+      "writtenOn": "2021-01-15T19:46:42Z",
+      "side": 1,
+      "message": "hate is a strong word, be careful not to offend anyone",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 7
+      },
+      "revId": "96bfecce5af4c018019cfaae2236d6fe1c414d41",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
